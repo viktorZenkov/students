@@ -1,1 +1,2 @@
-I'm Yiming Sun
+I'm Yiming Sun, a CS major student.
+
