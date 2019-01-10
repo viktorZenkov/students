@@ -1,2 +1,3 @@
 #Ethan Grissom
-```I'm Ethan Grissom, a junior at UTK in Computer Science. I had interned with OSIsoft over the last summer and fall and am looking forward to expanding on what I learned while working there in this class. I like to read and go running in my free time.``` 
+
+```I'm Ethan Grissom, a Junior in Computer Science. Over the summer and fall I interned at OSIsoft and learned some software development practices and am looking forward to expanding on that in this class. Outside of class, I enjoy reading and running/exercising.```
