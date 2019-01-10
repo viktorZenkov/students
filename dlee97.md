@@ -1,0 +1,1 @@
+My name is Dylan Lee and I am in my second semester at UT after transferring from Pellissippi State. I am a Computer Science major and am very excited for this class and this semester. I really enjoy coding and when not working on school work I enjoy hiking and golfing. 
