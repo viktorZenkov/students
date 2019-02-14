@@ -1,0 +1,1 @@
+My name is Bryson Howell and I'm a sophomore computer science major. I'm interested in a future career in research, and I'm currently working with Dr. Lynne Parker in the Distributed Intelligence lab as an undergraduate researcher. For fun I'm involved with the cinema club and esports club on campus.
